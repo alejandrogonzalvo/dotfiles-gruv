@@ -1,0 +1,7 @@
+[2022-07-21 10:54:06.411] [renderer1] [error] Error: File not found
+    at g.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:96747)
+    at async g.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2716:95987)
+    at async l.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:6429)
+    at async l.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:4791)
+    at async l.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2714:3783)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2916:16970

@@ -1,0 +1,149 @@
+/*
+ *
+ * Author  : Aditya Shakya
+ * Mail    : adi1090x@gmail.com
+ * Github  : @adi1090x
+ * Twitter : @adi1090x
+ *
+ */
+
+configuration {
+    font: 							"Iosevka Bold 14";
+    location: 						0;
+    fixed-num-lines: 				true;
+    show-icons: 					false;
+    sidebar-mode: 					false;
+    scroll-method: 					0;
+    window-format: 					" {t}";
+    click-to-exit: 					true;
+    combi-hide-mode-prefix: 		false;
+    display-drun: 					" ";
+}
+
+@import "styles/colors.rasi"
+
+* {
+    background-color:             	@bg;
+    text-color: @fg;
+}
+
+window {
+    border: 						0px;
+    border-color: 					@ac;
+    border-radius: 					6px;
+    padding: 						15;
+    width: 						20%;
+    height:						30%;
+}
+
+prompt {
+    spacing: 						0;
+    border: 						0;
+}
+
+textbox-prompt-colon {
+    expand: 						false;
+    str: 							" ";
+    margin:							0px 4px 0px 0px;
+}
+
+entry {
+    spacing:    					0;
+}
+
+case-indicator {
+    spacing:    					0;
+}
+
+inputbar {
+    spacing:    					0px;
+    padding:    					1px;
+    children: 						[ prompt,textbox-prompt-colon,entry,case-indicator ];
+}
+
+mainbox {
+    border: 						0px;
+    border-color: 					@ac;
+    padding: 						6;
+}
+
+listview {
+    fixed-height: 					0;
+    border: 						0px;
+    border-color: 					@ac;
+    spacing: 						4px;
+    scrollbar: 						false;
+    padding: 						5px 5px 0px 5px;
+}
+
+element {
+    border: 						0px;
+    border-radius: 					4px;
+    padding: 						5px;
+}
+element normal.normal {
+    background-color: 				@bg;
+}
+element normal.urgent {
+    background-color: 				@bg;
+}
+element normal.active {
+    background-color: 				@green;
+}
+element selected.normal {
+    background-color: 				#f5f5f5ff;
+}
+element selected.urgent {
+    background-color: 				@bg;
+}
+element selected.active {
+    background-color: 				#f5f5f5ff;
+}
+element alternate.normal {
+    background-color: 				@bg;
+}
+element alternate.urgent {
+    background-color: 				@bg;
+}
+element alternate.active {
+    background-color: 				@bg;
+}
+
+sidebar {
+    border:       					0px;
+    border-color: 					@ac;
+    border-radius: 					0px;
+}
+
+button {
+    background-color:             	#f5f5f5ff;
+    margin: 						5px;
+    padding: 						5px;
+    border: 						0px;
+    border-radius: 					4px;
+    border-color: 					#f5f5f5ff;
+}
+
+button selected {
+    background-color:             	@ac;
+    border: 						0px;
+    border-radius: 					4px;
+    border-color: 					#f5f5f5ff;
+}
+
+scrollbar {
+    width:        					4px;
+    border:       					0px;
+    handle-color: 					#f5f5f5ff;
+    handle-width: 					8px;
+    padding:      					0;
+}
+
+message {
+    border: 						0px;
+    border-color: 					@ac;
+    padding: 						1px;
+}
+
+textbox {
+}

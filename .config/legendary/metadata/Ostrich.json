@@ -1,0 +1,118 @@
+{
+  "app_name": "Ostrich",
+  "app_title": "Ooblets",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Ostrich",
+      "asset_id": "Ostrich",
+      "build_version": "v0.99.18_e_da",
+      "catalog_item_id": "17d118fa574c48d9b678d3e9003f129e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "413361d2d5db4912ac2dfbcf27a38141"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45679lgR4nFCHHbCtGkWfOS8G0pt",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-01T20:44:27.027Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "output_log.txt"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Glumberland/Ooblets/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Ooblets"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "413361d2d5db4912ac2dfbcf27a38141"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Ooblets",
+    "developer": "Glumberland",
+    "developerId": "o-q293du8hx3hhcjbqzrmfz6cz48hk6x",
+    "endOfSupport": false,
+    "entitlementName": "17d118fa574c48d9b678d3e9003f129e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "17d118fa574c48d9b678d3e9003f129e",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f1bdf7eac0fcbd0d3712939661f9120d",
+        "size": 709444,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-15T03:06:45.611Z",
+        "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_Ooblets_Glumberland_S1-2560x1440-f1bdf7eac0fcbd0d3712939661f9120d.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9ece7b03fe272031fa5e1fffcde05616",
+        "size": 376642,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-15T03:06:58.005Z",
+        "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_Ooblets_Glumberland_S2-1200x1600-9ece7b03fe272031fa5e1fffcde05616.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-10-27T21:31:58.346Z",
+    "namespace": "413361d2d5db4912ac2dfbcf27a38141",
+    "releaseInfo": [
+      {
+        "appId": "Ostrich",
+        "dateAdded": "2019-08-19T00:00:00.000Z",
+        "id": "7351d30e303445388a30546a72aba667",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Ooblets",
+    "unsearchable": false
+  }
+}

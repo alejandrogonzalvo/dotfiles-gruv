@@ -1,0 +1,6 @@
+03:06:13.615413 Log continuation - Log started 2022-07-20T15:21:35.706612000Z
+03:06:13.726793 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:06:35.277685 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+03:06:57.452809 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+03:07:18.492882 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:07:27.510243 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

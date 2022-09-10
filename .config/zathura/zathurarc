@@ -1,0 +1,75 @@
+### Settings from original zathurarc ###
+set selection-clipboard clipboard
+
+### General recoloring settings ###
+# Allow recoloring
+set recolor "true"
+# Don't allow original hue when recoloring
+set recolor-keephue "false"
+# Don't keep original image colors while recoloring
+set recolor-reverse-video "true"
+
+### Theming ###
+# Command line completion entries
+set completion-fg "#d5c4a1"
+set completion-bg "#1d2021"
+
+# Command line completion group elements
+set completion-group-fg "#d5c4a1"
+set completion-group-bg "#1d2021"
+
+# Current command line completion element
+set completion-highlight-fg "#011117"
+set completion-highlight-bg "#d5c4a1"
+
+# Default foreground/background color
+# set default-fg # TODO
+set default-bg "#282828"
+set default-fg "#fbf1c7"
+# Input bar
+set inputbar-fg "#d5c4a1"
+set inputbar-bg "#1d2021"
+
+# Notification
+set notification-fg "#d5c4a1"
+set notification-bg "#1d2021"
+
+# Error notification
+set notification-error-fg "#d5c4a1"
+set notification-error-bg "#6B8979"
+
+# Warning notification
+set notification-warning-fg "#d5c4a1"
+set notification-warning-bg "#6B8979"
+
+# Tab - TODO
+# set tabbar-fg
+# set tabbar-bg
+
+# Focused tab - TODO
+# set tabbar-focus-fg
+# set tabbar-focus-bg
+
+# Status bar
+set statusbar-fg "#d5c4a1"
+set statusbar-bg "#1d2021"
+
+# Highlighting parts of the document (e.g. show search results)
+set highlight-color "#868B77"
+set highlight-active-color "#868B77"
+
+# Represent light/dark colors in recoloring mode
+set recolor-lightcolor rgba(0,0,0,0)
+set recolor-darkcolor "#d5c4a1"
+
+# "Loading..." text
+set render-loading-fg "#d5c4a1"
+set render-loading-bg "#011117"
+
+# Index mode
+set index-fg "#d5c4a1"
+set index-bg "#011117"
+
+# Selected element in index mode
+set index-active-fg "#011117"
+set index-active-bg "#d5c4a1"

@@ -1,0 +1,11 @@
+[2022-04-27T08:31:30.753Z] Validating found git in: git
+[2022-04-27T08:31:30.765Z] Using git 2.36.0 from git
+[2022-04-27T08:32:00.579Z] > git rev-parse --git-dir [2ms]
+[2022-04-27T08:32:00.587Z] Open repository: /home/alejandro/Unity/MoustachePower
+[2022-04-27T08:32:00.603Z] > git symbolic-ref --short HEAD [1ms]
+[2022-04-27T08:32:00.609Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/alejandro refs/remotes/alejandro [2ms]
+[2022-04-27T08:32:00.619Z] > git remote --verbose [3ms]
+[2022-04-27T08:32:00.619Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+[2022-04-27T08:32:00.625Z] > git config --get commit.template [0ms]
+[2022-04-27T08:32:00.927Z] > git ls-files --stage -- /home/alejandro/Unity/MoustachePower/Assets/Scripts/CameraFollow.cs [1ms]
+[2022-04-27T08:32:00.930Z] > git cat-file -s 61626c7d44193f6abdefc144c94b99ec17016289 [0ms]

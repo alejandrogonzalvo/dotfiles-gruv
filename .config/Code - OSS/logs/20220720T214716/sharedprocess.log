@@ -1,0 +1,3 @@
+[2022-07-20 21:47:19.393] [sharedprocess] [info] Starting worker process with pid 43876 (type: fileWatcher, window: 1).
+[2022-07-20 21:47:19.451] [sharedprocess] [info] Deleted from disk ms-vscode.js-debug-companion /home/alejandro/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-07-20 21:47:19.452] [sharedprocess] [info] Deleted from disk ms-vscode.references-view /home/alejandro/.vscode-oss/extensions/ms-vscode.references-view-0.0.89

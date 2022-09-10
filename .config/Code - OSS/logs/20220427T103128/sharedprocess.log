@@ -1,0 +1,15 @@
+[2022-04-27 10:31:30.519] [sharedprocess] [info] Starting worker process with pid 85266 (type: fileWatcher, window: 1).
+[2022-04-27 10:31:32.823] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-04-27 10:31:32.824] [sharedprocess] [info] Getting Manifest... ms-vscode.references-view
+[2022-04-27 10:31:33.859] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-04-27 10:31:33.859] [sharedprocess] [info] Installing extension: ms-vscode.references-view
+[2022-04-27 10:31:34.760] [sharedprocess] [info] Downloaded extension: ms-vscode.references-view /home/alejandro/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.references-view-0.0.89
+[2022-04-27 10:31:34.760] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-companion /home/alejandro/.config/Code - OSS/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.17
+[2022-04-27 10:31:34.794] [sharedprocess] [info] Extracted extension to /home/alejandro/.vscode-oss/extensions/.ab10fbfd-4db0-4943-9bf0-23e5f04cd6b7: ms-vscode.references-view
+[2022-04-27 10:31:34.798] [sharedprocess] [info] Extracted extension to /home/alejandro/.vscode-oss/extensions/.b5c39773-4aa9-4271-8eec-2eef0c473247: ms-vscode.js-debug-companion
+[2022-04-27 10:31:34.802] [sharedprocess] [info] Renamed to /home/alejandro/.vscode-oss/extensions/ms-vscode.references-view-0.0.89
+[2022-04-27 10:31:34.803] [sharedprocess] [info] Extracting completed. ms-vscode.references-view
+[2022-04-27 10:31:34.804] [sharedprocess] [info] Renamed to /home/alejandro/.vscode-oss/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-04-27 10:31:34.805] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-04-27 10:31:34.808] [sharedprocess] [info] Extension installed successfully: ms-vscode.references-view
+[2022-04-27 10:31:34.811] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-companion

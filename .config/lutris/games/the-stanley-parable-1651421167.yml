@@ -1,0 +1,6 @@
+game:
+  exe: /home/alejandro/.wine/drive_c/Games/The Stanley Parable Ultra Deluxe/The Stanley
+    Parable Ultra Deluxe.exe
+system: {}
+wine:
+  esync: false

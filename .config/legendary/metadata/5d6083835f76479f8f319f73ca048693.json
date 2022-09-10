@@ -1,0 +1,110 @@
+{
+  "app_name": "5d6083835f76479f8f319f73ca048693",
+  "app_title": "Ooblets Experimental",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5d6083835f76479f8f319f73ca048693",
+      "asset_id": "5d6083835f76479f8f319f73ca048693",
+      "build_version": "v0.99.18_e_da",
+      "catalog_item_id": "0ee7b045ed8948e486fa69253b5a4003",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "413361d2d5db4912ac2dfbcf27a38141"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45679lgR4nFCHHbCtGkWfOS8G0pt",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-07-16T17:40:09.065Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "OobletsExperimental"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "413361d2d5db4912ac2dfbcf27a38141"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Ooblets Experimental",
+    "developer": "Glumberland",
+    "developerId": "o-q293du8hx3hhcjbqzrmfz6cz48hk6x",
+    "endOfSupport": false,
+    "entitlementName": "0ee7b045ed8948e486fa69253b5a4003",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "0ee7b045ed8948e486fa69253b5a4003",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f1bdf7eac0fcbd0d3712939661f9120d",
+        "size": 709444,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-15T03:06:45.611Z",
+        "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_Ooblets_Glumberland_S1-2560x1440-f1bdf7eac0fcbd0d3712939661f9120d.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9ece7b03fe272031fa5e1fffcde05616",
+        "size": 376642,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-15T03:06:58.005Z",
+        "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/item/EGS_Ooblets_Glumberland_S2-1200x1600-9ece7b03fe272031fa5e1fffcde05616.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-07-23T19:37:15.331Z",
+    "namespace": "413361d2d5db4912ac2dfbcf27a38141",
+    "releaseInfo": [
+      {
+        "appId": "5d6083835f76479f8f319f73ca048693",
+        "dateAdded": "2019-08-19T00:00:00.000Z",
+        "id": "7351d30e303445388a30546a72aba667",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Ooblets Experimental",
+    "unsearchable": true
+  }
+}

@@ -1,0 +1,8 @@
+res://scenes/BlueP.tscn
+res://scenes/BluePossesion.gd
+res://scenes/Game.tscn
+res://scenes/RedP.tscn
+res://scenes/RedPossesion.gd
+res://scripts/Game.gd
+res://scripts/Player.gd
+res://scripts/States/Player/Run.gd

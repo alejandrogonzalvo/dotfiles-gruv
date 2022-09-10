@@ -1,0 +1,6 @@
+[filesystem "alejandro|N/A|18.0.1|/dev/sda3"]
+	timestampResolution = 13365 nanoseconds
+	minRacyThreshold = 5940 microseconds
+[filesystem "alejandro|N/A|18.0.1.1|/dev/sda3"]
+	timestampResolution = 18932 nanoseconds
+	minRacyThreshold = 6465 microseconds

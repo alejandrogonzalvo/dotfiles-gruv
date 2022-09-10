@@ -1,0 +1,22 @@
+[2022-08-17 08:14:10.866] [exthost] [info] Extension host with pid 88836 started
+[2022-08-17 08:14:10.929] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-17 08:14:10.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-17 08:14:10.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-17 08:14:10.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-17 08:14:11.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-17 08:14:11.124] [exthost] [info] Eager extensions activated
+[2022-08-17 08:14:11.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-17 08:14:11.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-17 08:18:24.246] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-17 08:18:24.252] [exthost] [info] Extension host with pid 88836 exiting with code 0
+[2022-08-17 08:18:26.273] [exthost] [info] Extension host with pid 92521 started
+[2022-08-17 08:18:26.273] [exthost] [info] Skipping acquiring lock for /home/alejandro/.config/Code - OSS/User/workspaceStorage/c67449dd7c27940657f42ec4c1179517.
+[2022-08-17 08:18:26.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-17 08:18:26.366] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-08-17 08:18:26.368] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-17 08:18:26.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-17 08:18:26.380] [exthost] [info] Eager extensions activated
+[2022-08-17 08:18:26.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-17 08:18:26.387] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-17 08:18:29.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-08-17 08:19:04.799] [exthost] [info] ExtensionService#_doActivateExtension jsw.csharpextensions, startup: false, activationEvent: 'onLanguage:csharp'

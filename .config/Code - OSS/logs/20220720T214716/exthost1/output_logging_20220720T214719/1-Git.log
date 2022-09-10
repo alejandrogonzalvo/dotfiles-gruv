@@ -1,0 +1,6 @@
+[2022-07-20T19:47:19.613Z] Log level: Info
+[2022-07-20T19:47:19.616Z] [info] Validating found git in: git
+[2022-07-20T19:47:19.630Z] [info] Using git 2.37.1 from git
+[2022-07-20T19:47:25.404Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-20T19:47:25.404Z] fatal: not a git repository (or any parent up to mount point /run/media/alejandro)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

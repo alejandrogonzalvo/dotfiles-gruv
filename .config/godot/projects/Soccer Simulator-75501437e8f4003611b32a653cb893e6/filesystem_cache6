@@ -1,0 +1,113 @@
+679959e7917290c4d1380dafd36febcc
+::res://::1653982488
+::res://NES Asset Pack Soccer Files/::1653757706
+4-3-3.webp::StreamTexture::1653042073::1653042075::1::::<><>::
+Ball_Icons.png::StreamTexture::1580549480::1652955785::1::::<><>::
+Football Full Sprite Sheet.png::StreamTexture::1580497876::1652955287::1::::<><>::
+Goal_1.png::StreamTexture::1580549462::1652955287::1::::<><>::
+Goal_2.png::StreamTexture::1580549468::1652955287::1::::<><>::
+Referee_SpriteSheet.png::StreamTexture::1580547694::1652955287::1::::<><>::
+Staduim Pitch 16x16.png::StreamTexture::1580551952::1652955287::1::::<><>::
+StaduimPitch 8x8.png::StreamTexture::1580489034::1652955287::1::::<><>::
+Staduim_Pitch.png::StreamTexture::1580549288::1652956179::1::::<><>::
+Team A Sprite Sheet.png::StreamTexture::1580498002::1653041617::1::::<><>::
+Team_B_SpriteSheet.png::StreamTexture::1580498066::1653461748::1::::<><>::
+::res://NES Asset Pack Soccer Files/Referee/::1652955287
+Team_B_Referee_Caution.png::StreamTexture::1580548080::1652955287::1::::<><>::
+Team_B_Referee_EAST_strip4.png::StreamTexture::1580548106::1652955287::1::::<><>::
+Team_B_Referee_NORTHEAST_strip4.png::StreamTexture::1580548118::1652955287::1::::<><>::
+Team_B_Referee_NORTHWEST_strip4.png::StreamTexture::1580548124::1652955287::1::::<><>::
+Team_B_Referee_NORTH_strip4.png::StreamTexture::1580547746::1652955287::1::::<><>::
+Team_B_Referee_SOUTHEAST_strip4.png::StreamTexture::1580548094::1652955287::1::::<><>::
+Team_B_Referee_SOUTHWEST_strip4.png::StreamTexture::1580548100::1652955287::1::::<><>::
+Team_B_Referee_SOUTH_strip4.png::StreamTexture::1580548088::1652955287::1::::<><>::
+Team_B_Referee_Stand.png::StreamTexture::1580548074::1652955287::1::::<><>::
+Team_B_Referee_WEST_strip4.png::StreamTexture::1580548112::1652955287::1::::<><>::
+::res://NES Asset Pack Soccer Files/Team A Kick/::1652955288
+Team_A_Kick_EAST.png::StreamTexture::1580547474::1652955287::1::::<><>::
+Team_A_Kick_NORTH.png::StreamTexture::1580547460::1652955287::1::::<><>::
+Team_A_Kick_NORTHEAST.png::StreamTexture::1580547466::1652955287::1::::<><>::
+Team_A_Kick_NORTHWEST.png::StreamTexture::1580547508::1652955287::1::::<><>::
+Team_A_Kick_SOUTH.png::StreamTexture::1580547488::1652955287::1::::<><>::
+Team_A_Kick_SOUTHEAST.png::StreamTexture::1580547480::1652955287::1::::<><>::
+Team_A_Kick_SOUTHWEST.png::StreamTexture::1580547494::1652955287::1::::<><>::
+Team_A_Kick_WEST.png::StreamTexture::1580547500::1652955288::1::::<><>::
+::res://NES Asset Pack Soccer Files/Team A Run/::1652966767
+Team_A_Run_EAST_strip4.png::StreamTexture::1580547580::1652966767::1::::<><>::
+Team_A_Run_NORTHEAST_strip4.png::StreamTexture::1580547594::1652966767::1::::<><>::
+Team_A_Run_NORTHWEST_strip4.png::StreamTexture::1580547600::1652966767::1::::<><>::
+Team_A_Run_NORTH_strip4.png::StreamTexture::1580547606::1652966767::1::::<><>::
+Team_A_Run_SOUTHEAST_strip4.png::StreamTexture::1580547568::1652966767::1::::<><>::
+Team_A_Run_SOUTHWEST_strip4.png::StreamTexture::1580547574::1652966767::1::::<><>::
+Team_A_Run_SOUTH_strip4.png::StreamTexture::1580547560::1652966767::1::::<><>::
+Team_A_Run_WEST_strip4.png::StreamTexture::1580547586::1652966767::1::::<><>::
+::res://NES Asset Pack Soccer Files/Team A Tackle/::1652955288
+Team_A_Tackle_EAST.png::StreamTexture::1580547414::1652955288::1::::<><>::
+Team_A_Tackle_NORTH.png::StreamTexture::1580547440::1652955288::1::::<><>::
+Team_A_Tackle_NORTHEAST.png::StreamTexture::1580547426::1652955288::1::::<><>::
+Team_A_Tackle_NORTHWEST.png::StreamTexture::1580547432::1652955287::1::::<><>::
+Team_A_Tackle_SOUTH.png::StreamTexture::1580547394::1652955287::1::::<><>::
+Team_A_Tackle_SOUTHEAST.png::StreamTexture::1580547400::1652955287::1::::<><>::
+Team_A_Tackle_SOUTHWEST.png::StreamTexture::1580547408::1652955287::1::::<><>::
+Team_A_Tackle_WEST.png::StreamTexture::1580547420::1652955287::1::::<><>::
+::res://NES Asset Pack Soccer Files/Team B Celebration/::1652955287
+Team_B_Celebration_NORTH_strip4.png::StreamTexture::1580547238::1652955287::1::::<><>::
+Team_B_Celebration_SOUTH_strip4.png::StreamTexture::1580547246::1652955287::1::::<><>::
+::res://NES Asset Pack Soccer Files/Team B Kick (single frames)/::1652955287
+Team_B_Kick_EAST.png::StreamTexture::1580547182::1652955287::1::::<><>::
+Team_B_Kick_NORTH.png::StreamTexture::1580547168::1652955287::1::::<><>::
+Team_B_Kick_NORTHEAST.png::StreamTexture::1580547174::1652955287::1::::<><>::
+Team_B_Kick_NORTHWEST.png::StreamTexture::1580547214::1652955287::1::::<><>::
+Team_B_Kick_SOUTH.png::StreamTexture::1580547194::1652955287::1::::<><>::
+Team_B_Kick_SOUTHEAST.png::StreamTexture::1580547188::1652955287::1::::<><>::
+Team_B_Kick_SOUTHWEST.png::StreamTexture::1580547202::1652955287::1::::<><>::
+Team_B_Kick_WEST.png::StreamTexture::1580547208::1652955287::1::::<><>::
+::res://NES Asset Pack Soccer Files/Team B Run/::1652955287
+Team_B_Run_EAST_strip4.png::StreamTexture::1580547288::1652955287::1::::<><>::
+Team_B_Run_NORTHEAST_strip4.png::StreamTexture::1580547300::1652955287::1::::<><>::
+Team_B_Run_NORTHWEST_strip4.png::StreamTexture::1580547308::1652955287::1::::<><>::
+Team_B_Run_NORTH_strip4.png::StreamTexture::1580547316::1652955287::1::::<><>::
+Team_B_Run_SOUTHEAST_strip4.png::StreamTexture::1580547276::1652955287::1::::<><>::
+Team_B_Run_SOUTHWEST_strip4.png::StreamTexture::1580547282::1652955287::1::::<><>::
+Team_B_Run_SOUTH_strip4.png::StreamTexture::1580547270::1652955287::1::::<><>::
+Team_B_Run_WEST_strip4.png::StreamTexture::1580547294::1652955287::1::::<><>::
+::res://NES Asset Pack Soccer Files/Team B SLide Tackle (single frames)/::1652955287
+Team_B_Tackle_EAST.png::StreamTexture::1580547102::1652955287::1::::<><>::
+Team_B_Tackle_NORTH.png::StreamTexture::1580547134::1652955287::1::::<><>::
+Team_B_Tackle_NORTHEAST.png::StreamTexture::1580547120::1652955287::1::::<><>::
+Team_B_Tackle_NORTHWEST.png::StreamTexture::1580547126::1652955287::1::::<><>::
+Team_B_Tackle_SOUTH.png::StreamTexture::1580547082::1652955287::1::::<><>::
+Team_B_Tackle_SOUTHEAST.png::StreamTexture::1580547088::1652955287::1::::<><>::
+Team_B_Tackle_SOUTHWEST.png::StreamTexture::1580547096::1652955287::1::::<><>::
+Team_B_Tackle_WEST.png::StreamTexture::1580547112::1652955287::1::::<><>::
+::res://scenes/::1653811826
+Ball.tscn::PackedScene::1653742240::0::1::::<><>::res://NES Asset Pack Soccer Files/Ball_Icons.png<>res://scripts/Ball.gd
+BlueP.tscn::PackedScene::1653811730::0::1::::<><>::res://NES Asset Pack Soccer Files/Team A Sprite Sheet.png<>res://scripts/States/Player/Idle.gd<>res://scripts/StateMachine.gd<>res://scripts/Player.gd<>res://scenes/States/State.tscn<>res://scripts/States/Player/BallState.gd<>res://scripts/States/Player/Run.gd
+BluePossesion.gd::GDScript::1653751035::0::1::::BluePossesion<>State<>::
+Game.tscn::PackedScene::1653811730::0::1::::<><>::res://NES Asset Pack Soccer Files/Goal_1.png<>res://NES Asset Pack Soccer Files/Goal_2.png<>res://NES Asset Pack Soccer Files/Staduim_Pitch.png<>res://scripts/Ball.gd<>res://scripts/Team.gd<>res://scenes/RedP.tscn<>res://scripts/Game.gd<>res://scripts/StateMachine.gd<>res://NES Asset Pack Soccer Files/4-3-3.webp<>res://NES Asset Pack Soccer Files/Ball_Icons.png<>res://scripts/NoPossesion.gd<>res://scenes/RedPossesion.gd<>res://scenes/BluePossesion.gd<>res://scenes/BlueP.tscn
+Match.tscn::PackedScene::1653732457::0::1::::<><>::res://scripts/Match.gd<>res://scripts/Team.gd<>res://scenes/RedP.tscn
+RedP.tscn::PackedScene::1653811826::0::1::::<><>::res://NES Asset Pack Soccer Files/Team_B_SpriteSheet.png<>res://scripts/States/Player/Idle.gd<>res://scripts/StateMachine.gd<>res://scripts/Player.gd<>res://scenes/States/State.tscn<>res://scripts/States/Player/BallState.gd<>res://scripts/States/Player/Run.gd
+RedPlayer.tscn::PackedScene::1653742240::0::1::::<><>::res://NES Asset Pack Soccer Files/Team_B_SpriteSheet.png<>res://scripts/Player.gd
+RedPossesion.gd::GDScript::1653751813::0::1::::RedPossesion<>State<>::
+Team1.tscn::PackedScene::1653732457::0::1::::<><>::res://scripts/Team.gd<>res://scripts/Player.gd<>res://scenes/RedP.tscn
+Team2.tscn::PackedScene::1653732457::0::1::::<><>::res://scripts/Team.gd<>res://scripts/Player.gd<>res://scenes/RedP.tscn
+Team.tscn::PackedScene::1652951061::0::1::::<><>::res://scripts/Team.gd
+::res://scenes/States/::1653652907
+State.tscn::PackedScene::1653652907::0::1::::<><>::res://scripts/States/Player/State.gd
+StateMachine.tscn::PackedScene::1653572428::0::1::::<><>::res://scripts/StateMachine.gd
+::res://scenes/States/Game/::1653648778
+::res://scenes/States/Player/::1653648172
+::res://scripts/::1653811703
+Ball.gd::GDScript::1653811476::0::1::::Ball<>KinematicBody2D<>::
+Game.gd::GDScript::1653810636::0::1::::<>Node2D<>::
+Match.gd::GDScript::1652953535::0::1::::<>Node<>::
+NoPossesion.gd::GDScript::1653741504::0::1::::NoPossesion<>State<>::
+Player.gd::GDScript::1653811703::0::1::::Player<>KinematicBody2D<>::
+StateMachine.gd::GDScript::1653647148::0::1::::StateMachine<>Node<>::
+Team.gd::GDScript::1652952894::0::1::::Team<>Node<>::
+::res://scripts/States/::1653648191
+::res://scripts/States/Player/::1653741955
+BallState.gd::GDScript::1653730435::0::1::::BallState<>Run<>::
+Idle.gd::GDScript::1653646834::0::1::::Idle<>State<>::
+Run.gd::GDScript::1653741955::0::1::::Run<>State<>::
+State.gd::GDScript::1653648214::0::1::::State<>Reference<>::

@@ -1,0 +1,9 @@
+game:
+  exe: /home/alejandro/.wine/drive_c/GOG Games/Caves of Qud/CoQ.exe
+system: {}
+wine:
+  battleye: false
+  eac: false
+  esync: false
+  fsr: false
+  fsync: false

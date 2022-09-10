@@ -1,0 +1,7 @@
+game:
+  appid: '312520'
+steam: {}
+system:
+  disable_runtime: false
+  prefer_system_libs: false
+  vk_icd: /usr/share/vulkan/icd.d/nvidia_icd.json

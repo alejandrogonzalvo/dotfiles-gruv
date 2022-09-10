@@ -1,0 +1,28 @@
+00:00:00.430139 VirtualBox GUI VM Selector Window 6.1.36 r152435 linux.amd64 (Jul 21 2022 10:08:57) release log
+00:00:00.430141 Log opened 2022-08-18T12:22:05.570298000Z
+00:00:00.430142 Build Type: release
+00:00:00.430143 OS Product: Linux
+00:00:00.430144 OS Release: 5.19.1-arch2-1
+00:00:00.430145 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 11 Aug 2022 16:06:13 +0000
+00:00:00.430158 DMI Product Name: GT72VR 7RD
+00:00:00.430164 DMI Product Version: REV:1.0
+00:00:00.430168 Firmware type: BIOS
+00:00:00.430192 Host RAM: 15956MB (15.5GB) total, 10835MB (10.5GB) available
+00:00:00.430194 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.430195 Process ID: 32354
+00:00:00.430195 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.430211 Qt version: 5.15.5
+00:00:00.471964 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.996613 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x45 x 1914x1029
+00:00:01.005761 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:42.715882 GUI: UIMediumEnumerator: Medium with key={{da54ac60-849f-4271-961d-cbc562e0e2c3}} created
+00:00:42.849492 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:25.986767 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:35.661769 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:45.522400 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:46.205262 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:46.216262 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:24.919325 GUI: UIMediumEnumerator: Medium with key={{47ac4405-9366-4645-8c22-6599f633aef3}} created
+00:02:24.964272 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:26.836363 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:26.842091 GUI: UIMediumEnumerator: Medium-enumeration finished!

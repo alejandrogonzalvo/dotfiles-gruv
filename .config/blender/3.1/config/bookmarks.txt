@@ -1,0 +1,5 @@
+[Bookmarks]
+[Recent]
+!Home
+/home/alejandro/
+/home/alejandro/Downloads/

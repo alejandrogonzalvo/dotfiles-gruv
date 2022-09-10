@@ -1,0 +1,6 @@
+game:
+  exe: /home/alejandro/Downloads/the-call-of-krular-beta/The Call of Krul'ar (ITCH).exe
+system: {}
+wine:
+  esync: false
+  fsync: false

@@ -1,0 +1,33 @@
+{
+  "Fortnite": {
+    "app_name": "Fortnite",
+    "base_urls": [
+      "https://epicgames-download1.akamaized.net/Builds/Fortnite/CloudDir",
+      "https://download.epicgames.com/Builds/Fortnite/CloudDir",
+      "https://download2.epicgames.com/Builds/Fortnite/CloudDir",
+      "https://download3.epicgames.com/Builds/Fortnite/CloudDir",
+      "https://download4.epicgames.com/Builds/Fortnite/CloudDir",
+      "https://fastly-download.epicgames.com/Builds/Fortnite/CloudDir"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "FortniteGame/Binaries/Win64/FortniteLauncher.exe",
+    "install_path": "/home/alejandro/Games/Heroic/Fortnite",
+    "install_size": 19745311516,
+    "install_tags": [
+      "chunk0",
+      "chunk10",
+      ""
+    ],
+    "is_dlc": false,
+    "launch_parameters": " -obfuscationid=ogR3h82Wby92T1DvqUymV5PU3XlnxA",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Fortnite",
+    "version": "++Fortnite+Release-21.40-CL-21407327-Windows"
+  }
+}

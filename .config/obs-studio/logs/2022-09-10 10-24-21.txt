@@ -1,0 +1,137 @@
+10:24:21.697: CPU Name: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+10:24:21.697: CPU Speed: 3438.392MHz
+10:24:21.697: Physical Cores: 4, Logical Cores: 8
+10:24:21.697: Physical Memory: 15956MB Total, 7419MB Free
+10:24:21.697: Kernel Version: Linux 5.19.1-arch2-1
+10:24:21.697: Distribution: "Arch Linux" Unknown
+10:24:21.697: Session Type: x11
+10:24:21.697: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+10:24:21.698: Qt Version: 5.15.5 (runtime), 5.15.5 (compiled)
+10:24:21.698: Portable mode: false
+10:24:21.750: OBS 27.2.4-2 (linux)
+10:24:21.750: ---------------------------------
+10:24:21.782: ---------------------------------
+10:24:21.782: audio settings reset:
+10:24:21.782: 	samples per sec: 48000
+10:24:21.782: 	speakers:        2
+10:24:21.785: ---------------------------------
+10:24:21.785: Initializing OpenGL...
+10:24:21.835: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1060/PCIe/SSE2
+10:24:21.835: OpenGL loaded successfully, version 3.3.0 NVIDIA 515.65.01, shading language 3.30 NVIDIA via Cg compiler
+10:24:21.903: ---------------------------------
+10:24:21.903: video settings reset:
+10:24:21.903: 	base resolution:   1920x1080
+10:24:21.903: 	output resolution: 1280x720
+10:24:21.903: 	downscale filter:  Bicubic
+10:24:21.903: 	fps:               30/1
+10:24:21.903: 	format:            NV12
+10:24:21.903: 	YUV mode:          709/Partial
+10:24:21.903: NV12 texture support not available
+10:24:21.913: Audio monitoring device:
+10:24:21.913: 	name: Default
+10:24:21.913: 	id: default
+10:24:21.913: ---------------------------------
+10:24:21.918: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:24:21.921: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+10:24:22.012: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:24:22.012: No blackmagic support
+10:24:22.024: v4l2loopback not installed, virtual camera disabled
+10:24:22.041: NVENC supported
+10:24:22.041: FFMPEG VAAPI supported
+10:24:22.057: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7: cannot open shared object file: No such file or directory
+10:24:22.057: 
+10:24:22.057: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+10:24:22.059: ---------------------------------
+10:24:22.059:   Loaded Modules:
+10:24:22.059:     text-freetype2.so
+10:24:22.059:     rtmp-services.so
+10:24:22.059:     obs-x264.so
+10:24:22.059:     obs-transitions.so
+10:24:22.059:     obs-outputs.so
+10:24:22.059:     obs-libfdk.so
+10:24:22.059:     obs-filters.so
+10:24:22.059:     obs-ffmpeg.so
+10:24:22.059:     linux-v4l2.so
+10:24:22.059:     linux-pulseaudio.so
+10:24:22.059:     linux-jack.so
+10:24:22.059:     linux-decklink.so
+10:24:22.059:     linux-capture.so
+10:24:22.059:     linux-alsa.so
+10:24:22.059:     image-source.so
+10:24:22.059:     frontend-tools.so
+10:24:22.059:     decklink-ouput-ui.so
+10:24:22.059:     decklink-captions.so
+10:24:22.059: ---------------------------------
+10:24:22.059: ==== Startup complete ===============================================
+10:24:22.119: All scene data cleared
+10:24:22.119: ------------------------------------------------
+10:24:22.122: pulse-input: Server name: 'pulseaudio 16.1'
+10:24:22.123: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+10:24:22.123: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+10:24:22.123: [Loaded global audio device]: 'Desktop Audio'
+10:24:22.123: pulse-input: Server name: 'pulseaudio 16.1'
+10:24:22.123: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+10:24:22.123: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3.analog-stereo'
+10:24:22.123: [Loaded global audio device]: 'Mic/Aux'
+10:24:22.124: xshm-input: Geometry 1920x1080 @ 0,0
+10:24:22.124: Switched to scene 'Scene'
+10:24:22.124: ------------------------------------------------
+10:24:22.124: Loaded scenes:
+10:24:22.124: - scene 'Scene':
+10:24:22.124:     - source: 'Screen Capture (XSHM)' (xshm_input)
+10:24:22.124: ------------------------------------------------
+10:24:22.676: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+10:24:22.676: 
+10:24:22.772: [rtmp-services plugin] Successfully updated file 'services.json' (version 201)
+10:24:22.772: [rtmp-services plugin] Successfully updated package (version 201)
+10:24:28.546: ---------------------------------
+10:24:28.546: [NVENC encoder: 'simple_h264_stream'] settings:
+10:24:28.546: 	rate_control: CBR
+10:24:28.546: 	bitrate:      2500
+10:24:28.546: 	cqp:          0
+10:24:28.546: 	keyint:       250
+10:24:28.546: 	preset:       hq
+10:24:28.546: 	profile:      high
+10:24:28.546: 	width:        1280
+10:24:28.546: 	height:       720
+10:24:28.546: 	2-pass:       false
+10:24:28.546: 	b-frames:     2
+10:24:28.546: 	psycho-aq:    1
+10:24:28.546: 	GPU:          0
+10:24:28.546: 
+10:24:28.769: libfdk_aac encoder created
+10:24:28.769: libfdk_aac bitrate: 160, channels: 2
+10:24:28.769: ==== Recording Start ===============================================
+10:24:28.769: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/alejandro/2022-09-10 10-24-28.mkv'...
+10:26:34.371: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/alejandro/2022-09-10 10-24-28.mkv' stopped
+10:26:34.371: Output 'simple_file_output': stopping
+10:26:34.371: Output 'simple_file_output': Total frames output: 3731
+10:26:34.371: Output 'simple_file_output': Total drawn frames: 3759 (3769 attempted)
+10:26:34.371: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 10 (0.3%)
+10:26:34.371: ==== Recording Stop ================================================
+10:26:34.483: libfdk_aac encoder destroyed
+10:30:11.362: ---------------------------------
+10:30:11.362: [NVENC encoder: 'simple_h264_stream'] settings:
+10:30:11.362: 	rate_control: CBR
+10:30:11.362: 	bitrate:      2500
+10:30:11.362: 	cqp:          0
+10:30:11.362: 	keyint:       250
+10:30:11.362: 	preset:       hq
+10:30:11.362: 	profile:      high
+10:30:11.362: 	width:        1280
+10:30:11.362: 	height:       720
+10:30:11.362: 	2-pass:       false
+10:30:11.362: 	b-frames:     2
+10:30:11.362: 	psycho-aq:    1
+10:30:11.362: 	GPU:          0
+10:30:11.362: 
+10:30:11.495: libfdk_aac encoder created
+10:30:11.495: libfdk_aac bitrate: 160, channels: 2
+10:30:11.497: ==== Recording Start ===============================================
+10:30:11.497: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/alejandro/2022-09-10 10-30-11.mkv'...
+10:31:29.974: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/alejandro/2022-09-10 10-30-11.mkv' stopped
+10:31:29.974: Output 'simple_file_output': stopping
+10:31:29.974: Output 'simple_file_output': Total frames output: 2318
+10:31:29.974: Output 'simple_file_output': Total drawn frames: 2355
+10:31:29.974: ==== Recording Stop ================================================
+10:31:30.085: libfdk_aac encoder destroyed
